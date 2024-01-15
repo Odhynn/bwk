@@ -7,9 +7,6 @@ Naerk's top assassins guild
 > [!info] Shadows
 > elite experienced assassin captains
 > each leading a contingent of assassins
-> known Shadows:
-> - [[Jackie]]
-> - [[Wallot]]
 
 ## in Oventhart
 propagating since 4816
